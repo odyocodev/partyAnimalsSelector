@@ -1,7 +1,3 @@
----
-title: Party Animals Selector
----
-
 # Party Animals Selector
 
 Privacy Policy
